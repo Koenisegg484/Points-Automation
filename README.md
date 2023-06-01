@@ -13,8 +13,10 @@ Donload this repository into your local system, then follow the below steps :
       pip install csv os threading plyer seleniium 
 5. Once you have installed them completely, you are ready to go.
 6. Go to the folder which has the downloaded files, open the folder in terminal, write the following code
+
     python ./PointsAutomate.py
     hit enter,
+    
 7. The program has now started, Enter 1 to run all the ids, or enter 2 to run specific ids.
 8. The program may crash sometimes in case the internet speed gets slow or some ram issues, but don't mind it, once the program has completed, you can run the ids that crashed once again by choosing the "Run specific ids" option
 9. Once the program has completed, it creates a "DailyReports.txt" file which includes which ids were signed in and did they successfully get completed or not.
