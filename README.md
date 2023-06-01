@@ -10,7 +10,9 @@ Donload this repository into your local system, then follow the below steps :
     I recommend not using vpns.
 3. Make sure you have python installed in your computer.
 4. Make sure you have the following libraries installed in your computer, if not run the following command
-      pip install csv os threading plyer seleniium 
+     
+     pip install csv os threading plyer seleniium 
+     
 5. Once you have installed them completely, you are ready to go.
 6. Go to the folder which has the downloaded files, open the folder in terminal, write the following code
 
